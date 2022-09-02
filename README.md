@@ -1,6 +1,6 @@
 # React Developer Test
 
-It's necessary to create React JS application, using only [Typescript](https://www.typescriptlang.org/), [React Router](https://reacttraining.com/react-router/web/guides/quick-start) and [React Context](https://reactjs.org/docs/context.html), that will show list of products and gets possibility for user adding desired products in his cart.
+The task is to create a React JS application, using only [Typescript](https://www.typescriptlang.org/), [React Router](https://reacttraining.com/react-router/web/guides/quick-start) and [React Context](https://reactjs.org/docs/context.html), that will show list of products and allows users to add products to the shopping basket.
 
 Keep away from unnecessary dependecies, keep it simple.
 
